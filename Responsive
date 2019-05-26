@@ -1,0 +1,99 @@
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+* {
+  box-sizing: border-box;
+}
+.list {
+  float:left;
+  width:25%;
+  text-align:center;
+  font-size:2vw;
+}
+.list a {
+  background-color:blanchedalmond;
+  padding:10px;
+  margin-top:8px;
+  display:block;
+  width:250%;
+  color:black;
+}
+.text {
+  float:left;
+  width:25%;
+  padding:0 25px;
+  font-size:2vw;
+}
+.text2 {
+  float:left;
+  width:50%;
+  padding:0 50px;
+  font-size:3vw;
+}
+.box {
+  background-color:burlywood;
+  float:left;
+  width:25%;
+  padding:10px;
+  margin-top:9px;
+  text-align:center;
+  font-size:2vw;
+}
+
+@media only screen and (max-width:400px) {
+  .menu, .main, .right {
+    width:100%;
+  }
+}
+</style>
+</head>
+<body style="font-family:Verdana;color:indigo;">
+
+<div style="background-color:aquamarine;padding:15px;text-align:center;color: darkblue">
+        <h1 style="font-size:5vw; text-align:center;">TUGAS OH TUGAS</h1>
+        <img src="aa/tugas.jpg"  style="max-width:100%;height:auto;text-align: center;" >    
+</div>
+ 
+  <div class="box">
+        <h4>FREE E BOOK !</h4>
+        <p> For You Who Love Book Our library free for you, Sign In Now and Subs! </p>
+        <a href=""> SIGN IN </a>
+  </div>
+  
+  <div class="text">
+    <h4>Create Your Assignment!</h4>
+    <p> To Help You Create Your Assignment Like an Essay! </p>
+    <a href="https://www.essaybot.com/"> CLICK HERE!</a>
+  </div>
+
+  <div class="box">
+        <h4>Already Booring!!!</h4>
+        <p> Are You Booring Already? This page Supply your Energy Boost! </p>
+        <a href="https://www.youtube.com/watch?v=2oj6S5xQrSA"> HAVE FUN </a>
+  </div>
+  <div style="overflow:auto">
+        <div class="list">
+            <a href="https://twitter.com/"> Our Fanpage</a>
+            <a href="https://www.youtube.com/"> Our Channel</a>
+            <a href="https://www.youtube.com/watch?v=yVH14swMKaM"> Jangan DiKlik!</a>
+    </div>
+</div>
+
+<div>
+  <div class="text2">
+    <h4>Booring!!!</h4>
+    <p> Are You Booring Already? This page Supply your Energy Boost! </p>
+    <a href="https://www.youtube.com/watch?v=zlG-z_5bfag"> HAVE FUN </a>
+  </div>
+  <div class="text2">
+    <h4> Booring!!!</h4>
+    <p> Are You Booring Already? This page Supply your Energy Boost! </p>
+    <a href="https://www.youtube.com/watch?v=-x24aOUyuPA"> HAVE FUN </a>
+
+  </div>
+</div>
+
+
+</body>
+</html>
